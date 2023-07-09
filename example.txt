@@ -1,1 +1,2 @@
 This is first line in example file
+This is second line
